@@ -55,7 +55,7 @@ Interested in contributing? Great! We welcome contributions from everyone. Pleas
 
 ## License
 
-This project is licensed under the MIT License - see the [license.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the license.md file for details.
 
 ## Authors
 

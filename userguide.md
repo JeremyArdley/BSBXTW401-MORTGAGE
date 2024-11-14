@@ -1,6 +1,4 @@
-Here is a user guide for the mortgage calculator Python application as described in the provided code. This guide will help users understand how to use the application effectively.
-
-### User Guide: Mortgage Calculator
+# User Guide: Mortgage Calculator
 
 #### Introduction
 The mortgage calculator is a Python application designed to help clients determine their monthly mortgage payments based on various input parameters including mortgage length, interest rate, and down payment. This tool is ideal for those planning their finances for a home purchase.
@@ -52,4 +50,3 @@ When you run the application, you'll be greeted with the following menu:
 #### Authors
 - **Jeisson N** and **Eyerusalem Desalegn** designed and developed this application as part of their project work.
 
-This guide should help you navigate and utilize the mortgage calculator for your financial planning needs. If you have any questions or require further assistance, refer to the comments within the code or contact the authors.

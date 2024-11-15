@@ -12,6 +12,11 @@ The BSBXTW401 Mortgage Calculator is a tool designed to help users calculate the
 - **Down Payment**: Users can input the amount they plan to pay upfront to reduce the financed amount.
 - **Monthly Payment Calculation**: Based on the inputs provided, the calculator computes the monthly payment amount, factoring in the principal and interest over the chosen period.
 
+## Documentation
+
+- **User Guide**: [View the User Guide](userguide.md) for detailed information on how to use the mortgage calculator.
+- **License**: [View the License](license.md)
+
 ## Getting Started
 
 ### Prerequisites
